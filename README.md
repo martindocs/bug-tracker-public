@@ -23,5 +23,5 @@ If you're interested in learning more about the app or seeing the code, please f
 
 Thank you for taking the time to check out my work. If you have any questions or feedback, please don't hesitate to get in touch.
 
-## Notes
+## Important Note
 Please note that this README is intended to be made public, while the repository itself remains private.
