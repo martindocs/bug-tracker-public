@@ -1,5 +1,9 @@
 # Bug Tracker App
 
+<p style="text-align:center;">
+    <img src="./img/bug-tracker.png" alt="bug tracker" />
+</p>
+
 Welcome to my Bug Tracker app! This app is designed to help you manage and track software bugs. It was developed as a way to showcase my development skills and demonstrate my ability to solve complex problems.
 
 ## Features
