@@ -16,7 +16,7 @@ The Bug Tracker app includes the following features:
 - Filter tickets by status, priority, or type: Quickly sort through tickets to find the ones that require your attention.
 - Filter tickets in ascending or descending order: Prioritize your workload by viewing tickets in the order that is most important to you.
 
-To see the app in action, please visit [my YouTube](https://youtu.be/f5QCdUTQo28) channel where you can watch Bug Tracker demo.
+To see the app in action, please visit [my YouTube](https://youtu.be/AladMbkvbgM) channel where you can watch Bug Tracker demo.
 
 To learn more about the app and its features, please visit my website at https://marcin-tatarski.com/projects.html
 
